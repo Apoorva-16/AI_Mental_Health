@@ -1,8 +1,11 @@
 # AI_Mental_Health
-Project
+
 ● Developed an AI-based system designed to passively monitor behavioral and health metrics for early detection of mental health disorder deviations.
+
 ● Leveraged machine learning models to analyze real-time data, enabling proactive flagging of subtle changes to prevent escalation and support timely intervention.
+
 ● Focused on addressing the challenge of undetected mental health issues by providing objective, data-driven insights for improved patient outcomes.
+
 
 
 BUDT 751 REPORT
